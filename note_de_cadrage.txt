@@ -1,0 +1,10 @@
+Note de cadrage du projet
+=========================
+Il est nécessaire d'atteindre les buts fixés dans cette note de cadrage sans pour autant partir dans des recherches complexes.
+Le but du projet est de :
+- comprendre l'utilisation de Git
+- utiliser git en ligne de commande
+- utiliser un dépôt github
+- utiliser les possibilités d'édition en ligne du dépôt github
+Pas plus.
+Pour les prospectives d'évolution, voir le document "prospective.txt"
