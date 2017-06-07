@@ -3,7 +3,7 @@ Prospectives
 Le but de ce document est de donner des pistes de travail et d'évolution sur la connaissance et la maîtrise de git.
 Les possibilités déjà évoquées sont :
 - utiliser un autre dépôt comme bitbucket
-- utiliser une connection en SSH
-- apprendre à gérer les conflit
-- savoit uiliser des branches
+- utiliser une connexion en SSH
+- apprendre à gérer les conflits
+- savoir utiliser des branches
 - démarrer un vrai projet avec des potes pour se mettre en situation réelle
